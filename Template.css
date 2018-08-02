@@ -1,0 +1,72 @@
+body{
+	background:lightblue;
+ font-family: 'Handlee', cursive;
+}
+ 
+#page_title{
+	text-align:center;
+	text-shadow:2px 3px 5px black;
+	color:grey;
+	background-color:white;
+	font-size:2.5em;
+	letter-spacing:.5em;
+	padding: 5px;
+
+}
+  
+ .top_nav_item{
+ 	margin:10px;
+ 	color:midnightblue;
+ 	font-size:1.2em;
+ 	text-decoration:none;
+ 	letter-spacing: 5px;
+ 	transition-duration: 1s;
+ 	transform-style: ease;
+ }
+
+ .top_nav_item:hover {
+ 	margin:10px;
+ 	color: white;
+ 	text-decoration:none;
+ }
+
+ #current_page{
+ 	border-bottom: 3px solid midnightblue;
+ }
+
+ #blue{
+ 	border: darkgrey 3px solid;
+ 	box-shadow:5px -5px 5px darkgrey;
+ 	-webkit-transform:rotate(90deg);
+ 	margin-top: 75px;
+ 	margin-bottom: 75px;
+ 	float: left;
+ }
+ 
+ #top_nav{
+ 	text-align:right;
+ }
+
+ #description{
+ 	background-color:snow;
+ 	padding:30px;
+ 	height:600px;
+ }
+#pagecontent{
+width:80%;
+margin:auto;
+}
+
+ .Smash{
+ 	float:left;
+ 	margin-right:20px;
+}
+
+
+ul{
+	font-size: .5em;
+}
+  
+  li{
+  	display: inline-block;
+  }

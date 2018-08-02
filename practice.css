@@ -1,0 +1,16 @@
+#intro {
+     text-align:center;
+ }
+ #p1{
+ 	font-weight: bold;
+ }
+#p2{
+	background-color:rgb(168, 161, 69);
+}
+#p3{
+	color:rgb(116, 69, 168);
+}
+body{
+	font-family: 'Noto Sans', sans-serif;
+}
+
